@@ -1,0 +1,58 @@
+[
+  {
+    "question":"What is the difference between a file-oriented system and a database system?",
+    "answer":"In a file-oriented system, data is stored in separate files and programs have to manage the access and storage of data. In a database system, data is stored in a centralized database and managed by a DBMS which provides data independence and easier access."
+  },
+  {
+    "question":"What is a DBA in the context of database engineering?",
+    "answer":"DBA stands for Database Administrator, who is responsible for managing the database system, ensuring its security, performance, and availability."
+  },
+  {
+    "question":"What is a Data Dictionary in the context of database engineering?",
+    "answer":"A Data Dictionary is a centralized repository of metadata about the data in a database. It contains information about data definitions, relationships, data types, and constraints."
+  },
+  {
+    "question":"What is Database System Architecture?",
+    "answer":"Database System Architecture refers to the overall structure of a database system, including schemas, sub-schemas, instances, and the 3-level database architecture."
+  },
+  {
+    "question":"What are the different levels of data abstraction in a database system?",
+    "answer":"The three levels of data abstraction in a database system are physical level, logical level, and view level."
+  },
+  {
+    "question":"What are the components and functions of a DBMS?",
+    "answer":"Components of a DBMS include storage manager, query processor, transaction manager, and buffer manager. Functions include data storage, retrieval, concurrency control, and security."
+  },
+  {
+    "question":"What are the different types of database models?",
+    "answer":"The common types of database models include hierarchical, network, relational, object-oriented, and object-relational models."
+  },
+  {
+    "question":"What is normalization in the context of database design?",
+    "answer":"Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It involves dividing tables into smaller tables and defining relationships between them."
+  },
+  {
+    "question":"What are the different levels of normalization?",
+    "answer":"The different levels of normalization include 1NF (First Normal Form), 2NF (Second Normal Form), 3NF (Third Normal Form), and BCNF (Boyce-Codd Normal Form)."
+  },
+  {
+    "question":"What are some common methods used for concurrency control in database systems?",
+    "answer":"Common methods for concurrency control include locking, timestamping, and optimistic concurrency control."
+  },
+  {
+    "question":"How does a database recovery system handle different types of database failures?",
+    "answer":"A database recovery system handles different types of database failures such as system crash, transaction errors, and disk failure by using techniques like undoing, redoing, and logging."
+  },
+  {
+    "question":"What are some advanced topics in database engineering?",
+    "answer":"Advanced topics in database engineering include object-oriented databases, object-relational databases, parallel and distributed databases, data warehousing, and data mining."
+  },
+  {
+    "question":"How can ER-Diagrams be converted to a Relational Database?",
+    "answer":"ER-Diagrams can be converted to a Relational Database by identifying entities, attributes, and relationships, and mapping them to tables, columns, and foreign keys in a relational schema."
+  },
+  {
+    "question":"What are some popular textbooks and reference books for studying database engineering?",
+    "answer":"Popular textbooks for studying database engineering include \"Database System Concepts\" by Sudarshan and Korth, \"Fundamentals of Database System\" by Elmasari and Navathe. Reference books include \"An Introduction to Database System\" by Bipin Desai and \"Database Modeling and Design\" by Teorey, Lightstone, and Nadeau."
+  }
+]

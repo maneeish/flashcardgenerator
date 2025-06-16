@@ -1,0 +1,11 @@
+question,answer
+What is Database Engineering?,"Database Engineering involves designing, implementing, and maintaining database systems to efficiently store and manage data."
+What is a Data Dictionary in the context of database systems?,A Data Dictionary is a centralized repository that stores metadata and information about the structure of the database.
+What is the role of a Database Administrator (DBA)?,"A Database Administrator is responsible for managing, configuring, and maintaining database systems to ensure they function smoothly."
+What is the difference between a File-oriented system and a Database System?,"A File-oriented system stores data in separate files without any relationships, while a Database System stores data in a structured manner with relationships between entities."
+What is a Database Language?,"A Database Language is a set of commands and instructions used to interact with the database, such as SQL (Structured Query Language)."
+What is Database System Architecture?,"Database System Architecture refers to the structure of the database system, including schemas, sub schemas, and instances."
+What is Data Abstraction in the context of database systems?,Data Abstraction is the process of hiding the complexities of data storage and retrieval from the users.
+What are the different types of Database Models?,"Database Models include the Entity-Relationship (E-R) model, Relational model, Network model, and Object-Oriented model."
+What are Storage Strategies in database systems?,"Storage Strategies include detailed storage architecture, storing data on magnetic disk, RAID, tape, and other storage mediums."
+What is Relational Algebra in the context of databases?,"Relational Algebra is a procedural query language used to perform operations such as selection, projection, and join on relational databases."

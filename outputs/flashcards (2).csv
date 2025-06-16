@@ -1,0 +1,11 @@
+question,answer
+What is the difference between a file-oriented system and a database system?,"In a file-oriented system, data is stored in separate files without any relationships between them, while a database system stores data in a structured manner with relationships maintained between different entities."
+What is data independence in the context of database engineering?,Data independence refers to the ability to modify the schema at one level of a database system without affecting the schema at the next higher level.
+What are the components and functions of a Database Management System (DBMS)?,"Components of a DBMS include data storage, data retrieval, data manipulation, security, and data integrity. Functions include data definition, data manipulation, data retrieval, and data control."
+What are the different types of data models used in database systems?,"The different types of data models include the relational model, network model, hierarchical model, object-oriented model, and object-relational model."
+What is the purpose of normalization in database design?,Normalization is the process of organizing data in a database to minimize redundancy and dependency by dividing large tables into smaller ones and defining relationships between them.
+What is meant by concurrency control in database systems?,Concurrency control is the process of managing simultaneous access to shared data to ensure data integrity and consistency in a multi-user environment.
+What are some common recovery techniques used in database systems?,"Common recovery techniques include rollback and roll-forward mechanisms, backup and restore procedures, and logging and journaling."
+What are some advanced topics in database engineering?,"Advanced topics in database engineering include object-oriented and object-relational databases, parallel and distributed databases, data warehousing, and data mining."
+What are the main functions of a Database Administrator (DBA)?,"The main functions of a DBA include database design, maintenance, security, backup and recovery, performance monitoring, and capacity planning."
+What is the role of a Data Dictionary in a database system?,"A Data Dictionary is a centralized repository of metadata that contains information about the structure, definitions, and relationships of data elements in a database."
