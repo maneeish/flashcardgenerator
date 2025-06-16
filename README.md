@@ -6,7 +6,7 @@
 ## 🌟 Overview
 **LLM Flashcard Generator** is a web application that helps users create intelligent flashcards from PDF documents using OpenAI's GPT-3.5. Ideal for students and educators, it simplifies studying with smart Q&A generation.
 
-🔗 **Live URL:** [LLM Flashcard Generator](https://flashcardgenerator23.streamlit.app/)
+🔗 **Live URL:** [LLM Flashcard Generator](https://flashcardgenerator23.streamlit.app)
 🔗 **GitHub Repository:** [flashcardgenerator](https://github.com/maneeish/flashcardgenerator)
 
 ---
