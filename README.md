@@ -99,7 +99,10 @@ flashcardgenerator/
 
 ## 🖼️ Sample Output
 <img width="960" alt="1" src="https://github.com/user-attachments/assets/0a7186ff-8fa8-4905-9b84-ecd1b068c997" />
+<img width="960" alt="8" src="https://github.com/user-attachments/assets/19ed8640-d313-4e02-9102-cb9d5d619939" />
 <img width="960" alt="2" src="https://github.com/user-attachments/assets/87c911ba-593e-4cc1-a283-fce448a9e1ef" />
+<img width="960" alt="6" src="https://github.com/user-attachments/assets/17444237-20ff-4884-b5c8-94e6bb1afe31" />
+<img width="960" alt="7" src="https://github.com/user-attachments/assets/79957e12-0b35-4773-a99d-100e63e65a2f" />
 <img width="960" alt="3" src="https://github.com/user-attachments/assets/c3835d72-2aea-4199-a3a3-727263e60b66" />
 <img width="960" alt="4" src="https://github.com/user-attachments/assets/b78bef3f-79a2-466e-b67f-19d6dce6d4c0" />
 <img width="960" alt="5" src="https://github.com/user-attachments/assets/5933c90b-2454-4408-b9cd-794084b78eb9" />
