@@ -1,7 +1,7 @@
 # 📚 LLM Flashcard Generator – AI-Powered Q\&A Maker
 
 📽️ **Demo Video**
-[Watch on YouTube](https://your-demo-link.com) *(Replace with your actual demo link)*
+https://www.loom.com/share/1e4efd8a580347dea790ba83a2385e68?sid=c8d23f06-d018-4194-8e99-fcae0f77acfb
 
 ## 🌟 Overview
 
